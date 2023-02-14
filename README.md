@@ -41,19 +41,19 @@
 ## 🏆 Awards
 
 **Graduation with Honors(top 10%)**  _(Jun. 2021)_ <br>
-Wuhan University.(https://en.whu.edu.cn/)
+[Wuhan University] (https://en.whu.edu.cn/)
 <br><br>
 **Huawei Scholarship** _(Jan. 2020)_ <br>
-Wuhan University.(https://en.whu.edu.cn/)
+[Wuhan University] (https://en.whu.edu.cn/)
 <br><br>
 **Excellent Group Award(top 1)** _(Jul. 2019)_ <br>
 NUS Summer School.
 <br><br>
 **National Scholarship** _(Jan. 2019)_ <br>
-Wuhan University.(https://en.whu.edu.cn/)
+[Wuhan University] (https://en.whu.edu.cn/)
 <br><br>
 **National Scholarship** _(Jan. 2018)_ <br>
-Wuhan University.(https://en.whu.edu.cn/)
+[Wuhan University] (https://en.whu.edu.cn/)
 <br><br>
 
 
