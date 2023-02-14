@@ -60,7 +60,7 @@ NUS Summer School.
 ## 👩🏼‍🎓 Education
 
 **Masters** in Pattern Recognition and Intelligent System<br>
-[Institute of Automation, Chinese Academy of Sciences (CASIA)](https://www.spiced-academy.com/) - Beijing, China _(Aug. 2021 - Present)_ <br>
+[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) - Beijing, China _(Aug. 2021 - Present)_ <br>
 
 **Bachelor** in Information Security<br>
 [Wuhan University](https://en.whu.edu.cn/) - Wuhan, China _(2017- 2021)_
