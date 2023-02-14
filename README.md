@@ -2,7 +2,7 @@
 
 🌱_Graduate student based in Beijing_ <br>
 
-[Email](lilingrui2021@ia.ac.cn) / [Website]([https://workwithcarolyn.com/](https://lingrayy.github.io/)) 
+[Email](lilingrui2021@ia.ac.cn) / [Website](https://lingrayy.github.io/) 
 <!-- / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/) -->
 
 ## 👩🏼‍💻 Experience
