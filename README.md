@@ -1,8 +1,8 @@
 # Lingrui Li
 
-🌱_ Graduate student based in Beijing _ <br>
+🌱_Graduate student based in Beijing_ <br>
 
-[Email](mailto: lilingrui2021@ia.ac.cn) / [Website]([https://workwithcarolyn.com/](https://lingrayy.github.io/)) 
+[Email](lilingrui2021@ia.ac.cn) / [Website]([https://workwithcarolyn.com/](https://lingrayy.github.io/)) 
 <!-- / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/) -->
 
 ## 👩🏼‍💻 Experience
@@ -20,11 +20,6 @@
 <br><br>
 
 
-## 💫 Skills and Relevant Courses
-**Relevant Courses**: Machine Learning (91), Discrete Mathematics (98).
-
-**Programming Skills**: Python, PyTorch, C, \LaTeX.
-
 
 <!-- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
@@ -34,9 +29,9 @@
   <br><br> -->
   
 
-**Want me to speak at your event?**
+<!--**Want me to speak at your event?**
 <br>💖 [Check out my website](https://lingrayy.github.io/) for more information.
-<br><br>
+<br><br>-->
 
 ## 💖 Scientific Interests
  - Unsupervised Domain Adaptation (UDA)
@@ -46,7 +41,7 @@
   
 ## 🏆 Awards
 
-**Graduation with Honors(top 10%) **  _(Jun. 2021)_ <br>
+**Graduation with Honors(top 10%)**  _(Jun. 2021)_ <br>
 Wuhan University.(https://en.whu.edu.cn/)
 <br><br>
 
@@ -66,11 +61,6 @@ Wuhan University.(https://en.whu.edu.cn/)
 Wuhan University.(https://en.whu.edu.cn/)
 <br><br>
 
-## 💬 Languages
-
- **Chinese**: Native <br>
-🇺🇸 **English**: B1
-<br><br>
 
 ## 👩🏼‍🎓 Education
 
@@ -81,3 +71,13 @@ Wuhan University.(https://en.whu.edu.cn/)
 [Wuhan University](https://en.whu.edu.cn/) - Wuhan, China _(2017- 2021)_
 
 
+## 💫 Skills and Relevant Courses
+**Relevant Courses**: Machine Learning (91), Discrete Mathematics (98).
+
+**Programming Skills**: Python, PyTorch, C, \LaTeX.
+
+## 💬 Languages
+
+ **Chinese**: Native <br>
+🇺🇸 **English**: B1
+<br><br>
