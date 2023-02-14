@@ -37,7 +37,6 @@
  - Semantic Segmentation
  - Robustness
   
-  
 ## 🏆 Awards
 
 **Graduation with Honors(top 10%)**  _(Jun. 2021)_ <br>
@@ -56,7 +55,6 @@ NUS Summer School.
 [Wuhan University](https://en.whu.edu.cn/)
 <br><br>
 
-
 ## 👩🏼‍🎓 Education
 
 **Masters** in Pattern Recognition and Intelligent System<br>
@@ -64,7 +62,6 @@ NUS Summer School.
 
 **Bachelor** in Information Security<br>
 [Wuhan University](https://en.whu.edu.cn/) - Wuhan, China _(2017- 2021)_
-
 
 ## 💫 Skills and Relevant Courses
 **Relevant Courses**: Machine Learning (91), Discrete Mathematics (98).
