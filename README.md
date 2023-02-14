@@ -2,49 +2,49 @@
 
 🌱_Graduate student based in Beijing _ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto: lilingrui2021@ia.ac.cn) / [Website](https://workwithcarolyn.com/) 
+<!-- / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/) -->
 
 ## 👩🏼‍💻 Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Unsupervised Domain Adaptation(UDA)**  _(Jun. 2022 - Present)_ <br>
+  - UDA based on adversarial Learning.
+  - UDA Based on Image Translation.
+  - Source-free UDA, based on pseudo-labeling and denoising self-supervised techniques.
+<br><br>
+
+**Robustness of Deep Neural Networks in Semantic Segmentation of Fluorescence Microscopy Images**  _(Mar. 2021 -- Jun. 2022.Dec)_ <br>
+  - We have developed an assay that characterizes robustness of DNN models in semantic segmentation of FM images.
+  - Our study reveals important differences in robustness of DNN segmentation models on natural images versus FM images.
+  - Our study reveals new and fundamental robustness properties of DNN models, and reveals relations between corruption robustness and adversarial robustness.
 <br><br>
 
 
-## 📌 Volunteering
+## 💫 Skills and Relevant Courses
+**Relevant Courses**: Machine Learning (91), Discrete Mathematics (98).
 
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
-  <br><br>
+**Programming Skills**: Python, PyTorch, C, \LaTeX.
 
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
+
+<!-- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Selected speakers and scheduling events
   - Fostered an inclusive community and enforced the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
+  <br><br> -->
   
 
 **Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
+<br>💖 [Check out my website](https://lingrayy.github.io/) for more information.
 <br><br>
+
+## 💖 Scientific Interests
+ - Unsupervised Domain Adaptation (UDA)
+ - Semantic Segmentation
+ - Robustness
+  
   
 ## 🏆 Awards
-
- - Huawei Scholarship (Jan. 2020)
- Wuhan University.
-
- - National Scholarship(top 1%) (Jan. 2019.)
- Wuhan University.
-
- - National Scholarship(top 1%) (Jan. 2018.)
- Wuhan University.
 
 **Graduation with Honors(top 10%) **  _(Jun. 2021)_ <br>
 Wuhan University.(https://en.whu.edu.cn/)
@@ -68,8 +68,8 @@ Wuhan University.(https://en.whu.edu.cn/)
 
 ## 💬 Languages
 
-🇺🇸 **Chinese**: Native <br>
-🇩🇪 **English**: B1
+ **Chinese**: Native <br>
+🇺🇸 **English**: B1
 <br><br>
 
 ## 👩🏼‍🎓 Education
