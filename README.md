@@ -1,8 +1,8 @@
 # Lingrui Li
 
-🌱_Graduate student based in Beijing _ <br>
+🌱_ Graduate student based in Beijing _ <br>
 
-[Email](mailto: lilingrui2021@ia.ac.cn) / [Website](https://workwithcarolyn.com/) 
+[Email](mailto: lilingrui2021@ia.ac.cn) / [Website]([https://workwithcarolyn.com/](https://lingrayy.github.io/)) 
 <!-- / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/) -->
 
 ## 👩🏼‍💻 Experience
