@@ -71,5 +71,5 @@ NUS Summer School.
 ## 💬 Languages
 
  **Chinese**: Native <br>
-🇺🇸 **English**: B1
+🇺🇸 **English**: C1
 <br><br>
