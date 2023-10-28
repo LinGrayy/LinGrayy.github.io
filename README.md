@@ -21,7 +21,7 @@
 
 ## 👩🏼‍💻 Publication
 
-Robust Source-Free Domain Adaptation for Fundus Image Segmentation.   _(WACV 2024)_ <br>  [Paper](http://arxiv.org/abs/2310.16665) 
+Robust Source-Free Domain Adaptation for Fundus Image Segmentation.   _(WACV 2024)_  [Paper](http://arxiv.org/abs/2310.16665)  <br> 
   - We proposed a two-stage training strategy for robust domain adaptation for semantic segmentation of medical images without source data.
   - We utilize a pseudo-boundary loss in the target adaptation stage and develop a new domain adaptation method PLPB. Our method models edge information and achieves good performance on Average Surface
 Distance metric and obtain precise boundary prediction. Without requiring source data, our method achieves comparable and sometimes higher performance than state-of-the-art source-dependent UDA
