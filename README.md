@@ -22,9 +22,12 @@
 ## 👩🏼‍💻 Publication
 
 **Robust Source-Free Domain Adaptation for Fundus Image Segmentation. **  _(WACV 2024)_ <br>  [Paper](http://arxiv.org/abs/2310.16665) 
-  - UDA based on adversarial Learning.
-  - UDA Based on Image Translation.
-  - Source-free UDA, based on pseudo-labeling and denoising self-supervised techniques.
+  - We proposed a two-stage training strategy for robust domain adaptation for semantic segmentation of medical images without source data.
+  - We utilize a pseudo-boundary loss in the target adaptation stage and develop a new domain adaptation method PLPB. Our method models edge information and achieves good performance on Average Surface
+Distance metric and obtain precise boundary prediction. Without requiring source data, our method achieves comparable and sometimes higher performance than state-of-the-art source-dependent UDA
+methods and other SF-DA methods.
+  - We evaluate the efficacy of PLPB on two public fundus datasets and one open domain which are popular benchmarks for UDA tasks, demonstrating improvements on both clean and adversarial samples.
+By utilizing adversarial samples, our method also demonstrates good generalization capability in the open domain. Our method is flexible and can be combined with other existing adaptation techniques
 <br><br>
 
 <!-- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
