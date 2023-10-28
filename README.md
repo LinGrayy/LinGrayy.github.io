@@ -19,6 +19,13 @@
   - Our study reveals new and fundamental robustness properties of DNN models, and reveals relations between corruption robustness and adversarial robustness.
 <br><br>
 
+## 👩🏼‍💻 Publication
+
+**Robust Source-Free Domain Adaptation for Fundus Image Segmentation. **  _(WACV 2024)_ <br>  [Paper](http://arxiv.org/abs/2310.16665) 
+  - UDA based on adversarial Learning.
+  - UDA Based on Image Translation.
+  - Source-free UDA, based on pseudo-labeling and denoising self-supervised techniques.
+<br><br>
 
 <!-- **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
