@@ -81,5 +81,5 @@ NUS Summer School.
 ## 💬 Languages
 
  **Chinese**: Native <br>
-🇺🇸 **English**: C1 IELTS:7.5
+ **English**: C1, IELTS: 7.5
 <br><br>
